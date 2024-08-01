@@ -1,0 +1,7 @@
+('sleeping', 'Sassy')
+('not_next_to_item', 'Duchess', 'catnip')
+('not_across_from_cat', 'Mr. Mittens', 'Tom Cat')
+('not_next_to_item', 'Pip Squeak', 'paw print')
+('in_front_of_items', 'Tom Cat', ['sock', 'bell ball'])
+('not_next_to_item', 'Pip Squeak', 'bell ball')
+('not_next_to_item', 'Ginger', 'sock')
