@@ -1,0 +1,5 @@
+python-constraint
+svgwrite
+CairoSVG
+Pillow
+reportlab
