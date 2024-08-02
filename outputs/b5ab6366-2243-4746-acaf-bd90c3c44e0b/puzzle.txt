@@ -1,0 +1,7 @@
+('sleeping', 'Tom Cat')
+('sleeping', 'Mr. Mittens')
+('sleeping', 'Ginger')
+('next_to_cat', 'Duchess', 'Pip Squeak')
+('across_from_cat', 'Sassy', 'Pip Squeak')
+('in_front_of_items', 'Sassy', ['scratch marks', 'catnip'])
+('next_to_item', 'Duchess', 'bird cage')

@@ -1,6 +1,0 @@
-('sleeping', 'Mr. Mittens')
-('across_from_cat', 'Duchess', 'Ginger')
-('in_front_of_items', 'Sassy', ['bell ball', 'paw print'])
-('in_front_of_items', 'Ginger', ['mouse'])
-('next_to_cat', 'Pip Squeak', 'Ginger')
-('next_to_cat', 'Tom Cat', 'Duchess')
