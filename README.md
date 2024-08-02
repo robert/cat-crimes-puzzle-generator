@@ -1,7 +1,11 @@
 # Generate infinite Cat Crimes puzzles
 
-`python3 generate.py`
+```
+pip install -r requirements.txt
+python3 generate.py
+```
 
 [Original game](https://www.thinkfun.com/products/cat-crimes/)
 
-![](outputs/png/coffee-9432a926-3466-4838-8e56-a1ceb03295d2.png)
+![](outputs/dad7e9cc-95e3-4dd0-a5a2-3efed007a03d/puzzle.png)
+![](outputs/dad7e9cc-95e3-4dd0-a5a2-3efed007a03d/solution.png)
